@@ -51,12 +51,45 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** Next.js 14 with App Router
-- **Styling:** Tailwind CSS with Custom Design System
-- **Animations:** Framer Motion
-- **State Management:** React Context + Hooks
-- **Icons:** Tabler Icons
-- **Code Quality:** TypeScript, ESLint, Prettier
+<div align="center">
+  <h3>Core Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  </p>
+
+  <h3>Backend & Cloud</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </p>
+
+  <h3>Frontend & AI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </p>
+
+  <h3>Development Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+    <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
+  </p>
+</div>
+
+### Key Features
+- **🔥 High Performance** - Optimized for speed and efficiency
+- **🔒 Secure** - Enterprise-grade security measures
+- **🌐 Scalable** - Built to handle growth
+- **🤖 AI-Powered** - Smart automation and insights
+- **🎨 Modern UI/UX** - Beautiful and intuitive design
+- **📱 Cross-Platform** - Works on all devices
 
 ## 🚀 Quick Start
 
@@ -98,89 +131,7 @@ npm run dev
 - Team collaboration features
 - Custom integrations
 
-## 📱 Responsive Design
-
-<div align="center">
-  <img src="public/screenshots/responsive.png" alt="Responsive Design" width="800"/>
-  <p><em>Seamless Experience Across All Devices</em></p>
-</div>
-
-### Multi-Device Support
-- **📱 Mobile First** - Optimized for smartphones and tablets
-  - Touch-friendly interface
-  - Gesture-based navigation
-  - Optimized media loading
-- **💻 Desktop Ready** - Full-featured experience on larger screens
-  - Advanced keyboard shortcuts
-  - Multi-window support
-  - Enhanced data visualization
-- **🔄 Sync Everywhere** - Real-time updates across all devices
-  - WebSocket connections
-  - Offline-first architecture
-  - Background sync
-- **⚡ Progressive Web App**
-  - Service Worker caching
-  - Push notifications
-  - Install prompts
-  - Offline functionality
-- **🎨 Adaptive UI**
-  - Tailwind CSS breakpoints
-  - CSS Grid/Flexbox layouts
-  - Container queries
-  - Dynamic theming
-- **📊 Responsive Charts**
-  - SVG-based visualizations
-  - Canvas performance optimization
-  - Adaptive data points
-  - Touch-friendly interactions
-
-### Technical Implementation
-```typescript
-// Responsive breakpoints using Tailwind CSS
-module.exports = {
-  theme: {
-    screens: {
-      'sm': '640px',   // Mobile devices
-      'md': '768px',   // Tablets
-      'lg': '1024px',  // Laptops
-      'xl': '1280px',  // Desktops
-      '2xl': '1536px', // Large screens
-    }
-  }
-}
-```
-
-### Key Features
-- **Dynamic Grid System**
-  ```jsx
-  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-    {/* Content adapts to screen size */}
-  </div>
-  ```
-- **Flexible Components**
-  ```jsx
-  <div className="flex flex-col md:flex-row items-center justify-between">
-    {/* Stacks vertically on mobile, horizontal on larger screens */}
-  </div>
-  ```
-- **Smart Media Loading**
-  ```jsx
-  <img
-    srcSet="img-sm.jpg 300w, img-md.jpg 600w, img-lg.jpg 1200w"
-    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-    src="img-fallback.jpg"
-    alt="Responsive image"
-  />
-  ```
-
-### Performance Metrics
-- **Mobile Loading Time**: < 2 seconds
-- **Desktop Loading Time**: < 1 second
-- **Lighthouse Score**: 95+ on all devices
-- **First Contentful Paint**: < 1.5 seconds
-- **Time to Interactive**: < 3.5 seconds
-
-## 🤝 Contributing
+## 📱 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
