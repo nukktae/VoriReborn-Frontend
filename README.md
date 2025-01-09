@@ -20,51 +20,33 @@
 
 ## 📸 Product Tour
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; max-width: 1200px; margin: 0 auto;">
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/loginpage.png" alt="Login Interface" width="300"/>
-    <p><em>Secure Authentication</em></p>
-  </div>
+<div align="center">
+  <img src="public/screenshots/loginpage.png" alt="Login Interface" width="800"/>
+  <p><em>Secure Authentication</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/dashboard.png" alt="Dashboard" width="300"/>
-    <p><em>AI-Powered Dashboard</em></p>
-  </div>
+  <img src="public/screenshots/dashboard.png" alt="Dashboard" width="800"/>
+  <p><em>AI-Powered Dashboard</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="300"/>
-    <p><em>Real-time Meeting Room</em></p>
-  </div>
+  <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="800"/>
+  <p><em>Real-time Meeting Room</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/kanban.png" alt="Kanban Board" width="300"/>
-    <p><em>Visual Kanban Board</em></p>
-  </div>
+  <img src="public/screenshots/kanban.png" alt="Kanban Board" width="800"/>
+  <p><em>Visual Kanban Board</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="300"/>
-    <p><em>Smart Ticket System</em></p>
-  </div>
+  <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="800"/>
+  <p><em>Smart Ticket System</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/profilepage.png" alt="User Profile" width="300"/>
-    <p><em>Personalized Profile</em></p>
-  </div>
+  <img src="public/screenshots/profilepage.png" alt="User Profile" width="800"/>
+  <p><em>Personalized Profile</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/settingpage.png" alt="Settings" width="300"/>
-    <p><em>Custom Settings</em></p>
-  </div>
+  <img src="public/screenshots/settingpage.png" alt="Settings" width="800"/>
+  <p><em>Custom Settings</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="300"/>
-    <p><em>Real-time Notifications</em></p>
-  </div>
+  <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="800"/>
+  <p><em>Real-time Notifications</em></p>
   
-  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="public/screenshots/landingpage.png" alt="Landing Page" width="300"/>
-    <p><em>Modern Landing Page</em></p>
-  </div>
+  <img src="public/screenshots/landingpage.png" alt="Landing Page" width="800"/>
+  <p><em>Modern Landing Page</em></p>
 </div>
 
 ## 🛠️ Tech Stack
