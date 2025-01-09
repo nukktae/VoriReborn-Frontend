@@ -21,48 +21,48 @@
 ## 📸 Product Tour
 
 <div align="center">
-  <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-    <div>
-      <img src="public/screenshots/landingpage.png" alt="Landing Page" width="300"/>
-      <p><em>Modern Landing Page</em></p>
-    </div>
-    <div>
-      <img src="public/screenshots/loginpage.png" alt="Login Interface" width="300"/>
+  <div style="display: flex; flex-direction: row; gap: 20px; margin-bottom: 40px;">
+    <div style="flex: 1;">
+      <img src="public/screenshots/loginpage.png" alt="Login Interface" width="100%" style="border-radius: 8px;"/>
       <p><em>Secure Authentication</em></p>
     </div>
-    <div>
-      <img src="public/screenshots/dashboard.png" alt="Dashboard" width="300"/>
+    <div style="flex: 1;">
+      <img src="public/screenshots/dashboard.png" alt="Dashboard" width="100%" style="border-radius: 8px;"/>
       <p><em>AI-Powered Dashboard</em></p>
     </div>
-  </div>
-
-  <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-    <div>
-      <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="300"/>
+    <div style="flex: 1;">
+      <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="100%" style="border-radius: 8px;"/>
       <p><em>Real-time Meeting Room</em></p>
     </div>
-    <div>
-      <img src="public/screenshots/kanban.png" alt="Kanban Board" width="300"/>
+  </div>
+
+  <div style="display: flex; flex-direction: row; gap: 20px; margin-bottom: 40px;">
+    <div style="flex: 1;">
+      <img src="public/screenshots/kanban.png" alt="Kanban Board" width="100%" style="border-radius: 8px;"/>
       <p><em>Visual Kanban Board</em></p>
     </div>
-    <div>
-      <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="300"/>
+    <div style="flex: 1;">
+      <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="100%" style="border-radius: 8px;"/>
       <p><em>Smart Ticket System</em></p>
+    </div>
+    <div style="flex: 1;">
+      <img src="public/screenshots/profilepage.png" alt="User Profile" width="100%" style="border-radius: 8px;"/>
+      <p><em>Personalized Profile</em></p>
     </div>
   </div>
 
-  <div style="display: flex; gap: 20px;">
-    <div>
-      <img src="public/screenshots/profilepage.png" alt="User Profile" width="300"/>
-      <p><em>Personalized Profile</em></p>
-    </div>
-    <div>
-      <img src="public/screenshots/settingpage.png" alt="Settings" width="300"/>
+  <div style="display: flex; flex-direction: row; gap: 20px;">
+    <div style="flex: 1;">
+      <img src="public/screenshots/settingpage.png" alt="Settings" width="100%" style="border-radius: 8px;"/>
       <p><em>Custom Settings</em></p>
     </div>
-    <div>
-      <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="300"/>
+    <div style="flex: 1;">
+      <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="100%" style="border-radius: 8px;"/>
       <p><em>Real-time Notifications</em></p>
+    </div>
+    <div style="flex: 1;">
+      <img src="public/screenshots/landingpage.png" alt="Landing Page" width="100%" style="border-radius: 8px;"/>
+      <p><em>Modern Landing Page</em></p>
     </div>
   </div>
 </div>
