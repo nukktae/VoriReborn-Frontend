@@ -23,45 +23,45 @@
 <div align="center">
   <div style="display: flex; gap: 20px; margin-bottom: 20px;">
     <div>
-      <img src="public/screenshots/landingpage.png" alt="Landing Page" width="250"/>
+      <img src="public/screenshots/landingpage.png" alt="Landing Page" width="300"/>
       <p><em>Modern Landing Page</em></p>
     </div>
     <div>
-      <img src="public/screenshots/loginpage.png" alt="Login Interface" width="250"/>
+      <img src="public/screenshots/loginpage.png" alt="Login Interface" width="300"/>
       <p><em>Secure Authentication</em></p>
     </div>
     <div>
-      <img src="public/screenshots/dashboard.png" alt="Dashboard" width="250"/>
+      <img src="public/screenshots/dashboard.png" alt="Dashboard" width="300"/>
       <p><em>AI-Powered Dashboard</em></p>
     </div>
   </div>
 
   <div style="display: flex; gap: 20px; margin-bottom: 20px;">
     <div>
-      <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="250"/>
+      <img src="public/screenshots/meetingpage.png" alt="Meeting Interface" width="300"/>
       <p><em>Real-time Meeting Room</em></p>
     </div>
     <div>
-      <img src="public/screenshots/kanban.png" alt="Kanban Board" width="250"/>
+      <img src="public/screenshots/kanban.png" alt="Kanban Board" width="300"/>
       <p><em>Visual Kanban Board</em></p>
     </div>
     <div>
-      <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="250"/>
+      <img src="public/screenshots/ticketspage.png" alt="Tickets Management" width="300"/>
       <p><em>Smart Ticket System</em></p>
     </div>
   </div>
 
   <div style="display: flex; gap: 20px;">
     <div>
-      <img src="public/screenshots/profilepage.png" alt="User Profile" width="250"/>
+      <img src="public/screenshots/profilepage.png" alt="User Profile" width="300"/>
       <p><em>Personalized Profile</em></p>
     </div>
     <div>
-      <img src="public/screenshots/settingpage.png" alt="Settings" width="250"/>
+      <img src="public/screenshots/settingpage.png" alt="Settings" width="300"/>
       <p><em>Custom Settings</em></p>
     </div>
     <div>
-      <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="250"/>
+      <img src="public/screenshots/notificationspopup.png" alt="Notifications" width="300"/>
       <p><em>Real-time Notifications</em></p>
     </div>
   </div>
