@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="VORI Logo" width="180"/>
+  <img src="public/logo/voriLogo.png" alt="VORI Logo" width="180"/>
   
   # VORI - The Future of Meeting Management
   
